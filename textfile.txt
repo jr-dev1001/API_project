@@ -1,0 +1,8 @@
+------------------------------------------------------------- 
+ Weather Stats for - NEW YORK  || 22 Jun 2021 | 04:04:54 PM
+ ------------------------------------------------------------- 
+Current temperature is: 22.05 deg C
+Current weather desc  :,clear sky 
+Current Humidity      :,86,% 
+Current wind speed    :,3.09,kmph 
+====================================================
