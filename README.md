@@ -1,5 +1,5 @@
 # shapeAi_project_cybersec
-This is for shapeAI cybeersecurity peoject .
+This is for shapeAI cybeersecurity project.
 Here we are mainly concentrating on the concept of API(Application Programming interface).
 API works between client and the server.
 API takes the request from the client and tronsport to server and ther server response will be given to the client again.
