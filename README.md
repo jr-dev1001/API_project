@@ -3,10 +3,10 @@ What i actually did in this project?</br>
 &nbsp;&nbsp;&nbsp;2.Creating an API request from python.</br>
 &nbsp;&nbsp;&nbsp;3.Data interpretation.</br>
 &nbsp;&nbsp;&nbsp;4.Display the Result.</br>
-This is for cybeersecurity project.</br>
+This is a demo project for how to use API's.</br>
 Here we are mainly concentrating on the concept of API(Application Programming interface).</br>
 API works between client and the server.</br>
-There are few types of APIs.</br>
+There are many types of APIs.</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.REST APIs </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.SOAP APIs</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.GRAPHQLs- This is developed by facebook.</br>
