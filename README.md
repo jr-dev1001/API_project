@@ -24,7 +24,7 @@ We have some RESPONSE CODES:</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;404 :- Not Found</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;403 :- Forbidden</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;500-599 :- Server side errors</br>
-And the code explains the data we requested from the server for wheather focast data and how we've retrive the data by using python.
+And the code explains the data we requested from the server for weather focast data and how we've retrive the data by using python.
 In this we import the request module to get a response from the server.</br>
 And we are reading the into a text file using pyhton file handling concept.</br>
 That's the text file is a demo wheather the code is reading and writing it in a text file.</br>
